@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ramana372
-- 👀 I’m interested in ...html,css,python
-- 🌱 I’m currently learning ...html,css,python
-- 💞️ I’m looking to collaborate on ...data science
+- 👀 I’m interested in ...Designing webpages
+- 🌱 I’m currently pursuing ... FullStack Web development
 - 📫 How to reach me ...@sadhanalavenkat372@gmail.com
 
 <!---
