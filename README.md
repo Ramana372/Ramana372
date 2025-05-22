@@ -1,37 +1,36 @@
 <h1 align="center">Hi 👋, I'm Venkata Ramana</h1>
-<h3 align="center">A passionate Full Stack Web-Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 ---
 
-- 🔭 I’m currently working on **Travel Blog**  
-  [🔗 Project Link](#)
+- 🔭 I’m currently working on **Expense Tracker**  
+  [🔗 Project Link](https://github.com/Ramana372/finance-tracker)
 
-- 👯 I’m looking to collaborate on **Expense Tracker (MERN Stack)**  
-  [🔗 Project Link](https://github.com/Ramana372/Expense-Tracker)
+- 👯 I’m looking to collaborate on **Library Management System**  
+  [🔗 Project Link](https://github.com/Ramana372/Library-Management-System)
 
 - 🤝 I’m looking for help with **Athidhi Restaurant – Table Reservation System**  
   [🔗 Project Link](https://github.com/venkat2k3/athidhi_restaurant)
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Cloud Computing and Advanced DSA**
 
-- 💬 Ask me about **React, Node.js, Express.js**
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB**
 
-- 📫 How to reach me: **sadhanalavenkat372@gmail.com**
+- 📫 Reach me at: **sadhanalavenkat372@gmail.com**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Ramana372)
 
-- 📝 I regularly write articles on [Blog](#)
+- 📝 I occasionally share articles and insights on my [Blog](#)
 
-- 📄 Know about my experiences: [Resume Link](#)
+- 📄 Know more about my experience: [Resume](#)
 
-- ⚡ Fun fact: **I think I am funny 😄**
+- ⚡ Fun fact: **I'm pretty sure I'm the funny friend 😄**
 
 ---
 
 ## 🛠️ Languages and Tools
 
 ### 💻 Programming Languages
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-007396?&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript)
@@ -63,16 +62,36 @@
 
 ## 📊 GitHub Stats
 
-![Ramana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramana372&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramana372&layout=compact&theme=radical)
+![Ramana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramana372&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramana372&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ramana372&theme=radical)
+
+---
+
+## 📚 Featured Projects
+
+- 🌐 **[Expense Tracker (MERN + DevOps)](https://github.com/Ramana372/finance-tracker)**  
+  Expense tracking with user auth, dashboard customization, and CI/CD via Jenkins, Docker, and Nginx.
+
+- 🍽 **[Athidhi Restaurant – Reservation System](https://github.com/venkat2k3/athidhi_restaurant)**  
+  Reservation and menu system using React, PHP, and MySQL, with SMTP integration.
+
+- 📚 **[Library Management System](https://github.com/Ramana372/Library-Management-System)**  
+  Lightweight library tracking app for borrowing and returning books.
+
+- 🌾 **[Agriculture Equipment Marketplace](https://github.com/Ramana372/Agriculture-Equipmet-s)**  
+  Platform for farmers to auction and manage tools with MongoDB backend.
+
+---
+
+## 🎓 Certifications
+
+- [Cloud Computing – NPTEL (2024)](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs118/Course/NPTEL24CS118S95690029204382812.pdf)  
+- [Data Structures and Algorithms – Board Infinity](https://drive.google.com/file/d/11tQ-EDCSbWvH-dmYE82WeHq8Vuyjk_NQ/view)  
+- [SSB Orientation – LPU](https://drive.google.com/file/d/1tG4kusICVrPxadgRKwUCZujI8A1FYiAH/view)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/venkat-sadhanala/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Ramana372)
-
----
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/venkat)
