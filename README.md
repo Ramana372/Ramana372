@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Venkata Ramana Banner" width="600"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Venkata Ramana</h1>
 <h3 align="center">Final-Year B.Tech CSE | Full Stack Developer | DevOps Enthusiast</h3>
