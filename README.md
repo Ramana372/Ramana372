@@ -1,54 +1,26 @@
 <h1 align="center">Hi 👋, I'm Venkata Ramana</h1>
-<h3 align="center">💻 Full Stack Developer | Java | Python | Spring Boot | Django | React | Node.js | DevOps Enthusiast</h3>
+<h3 align="center">🚀 Final-Year B.Tech CSE | Full Stack Developer | Java | Python | Spring Boot | React | DevOps Enthusiast</h3>
 
 ---
 
-### 🚀 About Me
-- 🎓 Final-year **B.Tech CSE Student** at Lovely Professional University  
-- 🔭 Currently building: **Expense Tracker (MERN + Docker + Jenkins + Nginx)**  
-- 👯 Open to collaborate on: **Cloud, DevOps, and Full Stack projects**  
-- 🌱 Learning: **Advanced DSA & Cloud Computing (AWS, Kubernetes, CI/CD)**  
-- 💬 Ask me about: **Spring Boot, Django, React.js, Node.js, REST APIs**  
-- 📫 Reach me at: **sadhanalavenkat372@gmail.com**  
-- 👨‍💻 All projects: [GitHub Portfolio](https://github.com/Ramana372)  
-- ⚡ Fun fact: *Code + Chai = Perfect Debugging!* ☕🚀  
+### 👨‍💻 About Me  
+- 🎓 Final-year **B.Tech in Computer Science and Engineering** at Lovely Professional University (CGPA: 7.65)  
+- 💻 Passionate **Full Stack Developer** experienced in **Java, Python, Spring Boot, Django, React.js, Node.js**  
+- 🔑 Skilled in **building scalable web apps, REST APIs, JWT authentication, microservices**  
+- ☁️ DevOps-focused: **Docker, Jenkins, Kubernetes, AWS, CI/CD pipelines, Nginx**  
+- 📚 Strong foundation in **Data Structures, Algorithms, and System Design**  
+- 📫 Reach me: **sadhanalavenkat372@gmail.com**  
+- ⚡ Fun fact: *Code, Cloud & Coffee keep me alive!* ☕  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-### 💻 Languages  
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
-
-### 🌐 Frontend  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)  
-
-### 🖥 Backend  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-
-### 🧠 Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
-
-### ⚙️ DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)  
+**Languages:** Java, Python, C++, JavaScript, PHP, HTML5, CSS3  
+**Frontend:** React.js, AngularJS, Bootstrap, Thymeleaf  
+**Backend:** Spring Boot, Django, Node.js, Express.js  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**DevOps & Tools:** Docker, Jenkins, Kubernetes, AWS, Git, GitHub, Maven, Nginx, Ubuntu  
 
 ---
 
@@ -64,17 +36,18 @@
 
 ## 📚 Featured Projects  
 
-- 🌐 **[Expense Tracker (MERN + DevOps)](https://github.com/Ramana372/finance-tracker)**  
-  Expense tracking app with **JWT auth, dashboard customization, CI/CD pipelines with Jenkins, Docker, Nginx**.  
+- 🌾 **[Agri-Mart](https://github.com/Ramana372/Agri-Mart)**  
+  Full-stack marketplace for farmers with **Spring Boot, JWT, PostgreSQL, Thymeleaf**.  
+  ✅ Role-based authentication (Admin/Seller/Buyer), product dashboard, image storage as byte arrays.  
 
-- 🍽 **[Athidhi Restaurant – Reservation System](https://github.com/venkat2k3/athidhi_restaurant)**  
-  Restaurant system with **React, PHP, MySQL** and **SMTP email integration**.  
+- 💰 **[Expense Tracker](https://github.com/Ramana372/finance-tracker)**  
+  MERN-based app with **JWT authentication**, **Dockerized**, automated with **Jenkins**, and deployed on **Nginx**.  
+
+- 🍽 **[Athidhi Restaurant – Table Reservation](https://github.com/venkat2k3/athidhi_restaurant)**  
+  Restaurant reservation + menu system with **React, PHP, MySQL, SMTP email integration**.  
 
 - 📚 **[Library Management System](https://github.com/Ramana372/Library-Management-System)**  
-  Lightweight system for book borrowing/returning using **Java + MySQL**.  
-
-- 🌾 **[Agri-Mart Marketplace](https://github.com/Ramana372/Agriculture-Equipmet-s)**  
-  Farmers’ platform built with **Spring Boot, PostgreSQL, JWT, Thymeleaf**.  
+  Book borrowing/returning system with **Java + MySQL**.  
 
 ---
 
@@ -88,8 +61,8 @@
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-sadhanala)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:sadhanalavenkat372@gmail.com)  
 
 ---
-⭐️ From [Venkata Ramana](https://github.com/Ramana372)  
+⭐ From [Venkata Ramana](https://github.com/Ramana372)  
