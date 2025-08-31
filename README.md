@@ -1,99 +1,95 @@
 <h1 align="center">Hi 👋, I'm Venkata Ramana</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">💻 Full Stack Developer | Java | Python | Spring Boot | Django | React | Node.js | DevOps Enthusiast</h3>
 
 ---
 
-- 🔭 I’m currently working on **Expense Tracker**  
-  [🔗 Project Link](https://github.com/Ramana372/finance-tracker)
-
-- 👯 I’m looking to collaborate on **Library Management System**  
-  [🔗 Project Link](https://github.com/Ramana372/Library-Management-System)
-
-- 🤝 I’m looking for help with **Athidhi Restaurant – Table Reservation System**  
-  [🔗 Project Link](https://github.com/venkat2k3/athidhi_restaurant)
-
-- 🌱 I’m currently learning **Cloud Computing and Advanced DSA**
-
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB**
-
-- 📫 Reach me at: **sadhanalavenkat372@gmail.com**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Ramana372)
-
-- 📝 I occasionally share articles and insights on my [Blog](#)
-
-- 📄 Know more about my experience: [Resume](#)
-
-- ⚡ Fun fact: **I'm pretty sure I'm the funny friend 😄**
+### 🚀 About Me
+- 🎓 Final-year **B.Tech CSE Student** at Lovely Professional University  
+- 🔭 Currently building: **Expense Tracker (MERN + Docker + Jenkins + Nginx)**  
+- 👯 Open to collaborate on: **Cloud, DevOps, and Full Stack projects**  
+- 🌱 Learning: **Advanced DSA & Cloud Computing (AWS, Kubernetes, CI/CD)**  
+- 💬 Ask me about: **Spring Boot, Django, React.js, Node.js, REST APIs**  
+- 📫 Reach me at: **sadhanalavenkat372@gmail.com**  
+- 👨‍💻 All projects: [GitHub Portfolio](https://github.com/Ramana372)  
+- ⚡ Fun fact: *Code + Chai = Perfect Debugging!* ☕🚀  
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-007396?&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
+### 💻 Languages  
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/-React-20232A?&logo=react)
-![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?&logo=angularjs)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap)
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)  
 
-### 🖥 Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?&logo=express)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?&logo=spring)
+### 🖥 Backend  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
 
-### 🧠 Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4EA94B?&logo=postgreSQL)
+### 🧠 Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazon-aws)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?&logo=ubuntu)
-
----
-
-## 📊 GitHub Stats
-
-![Ramana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramana372&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramana372&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ramana372&theme=radical)
+### ⚙️ DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)  
 
 ---
 
-## 📚 Featured Projects
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramana372&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramana372&layout=compact&theme=radical" alt="langs" />
+  <img src="https://streak-stats.demolab.com?user=Ramana372&theme=radical" alt="streak" />
+</p>
+
+---
+
+## 📚 Featured Projects  
 
 - 🌐 **[Expense Tracker (MERN + DevOps)](https://github.com/Ramana372/finance-tracker)**  
-  Expense tracking with user auth, dashboard customization, and CI/CD via Jenkins, Docker, and Nginx.
+  Expense tracking app with **JWT auth, dashboard customization, CI/CD pipelines with Jenkins, Docker, Nginx**.  
 
 - 🍽 **[Athidhi Restaurant – Reservation System](https://github.com/venkat2k3/athidhi_restaurant)**  
-  Reservation and menu system using React, PHP, and MySQL, with SMTP integration.
+  Restaurant system with **React, PHP, MySQL** and **SMTP email integration**.  
 
 - 📚 **[Library Management System](https://github.com/Ramana372/Library-Management-System)**  
-  Lightweight library tracking app for borrowing and returning books.
+  Lightweight system for book borrowing/returning using **Java + MySQL**.  
 
-- 🌾 **[Agriculture Equipment Marketplace](https://github.com/Ramana372/Agriculture-Equipmet-s)**  
-  Platform for farmers to auction and manage tools with MongoDB backend.
+- 🌾 **[Agri-Mart Marketplace](https://github.com/Ramana372/Agriculture-Equipmet-s)**  
+  Farmers’ platform built with **Spring Boot, PostgreSQL, JWT, Thymeleaf**.  
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications  
 
 - [Cloud Computing – NPTEL (2024)](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs118/Course/NPTEL24CS118S95690029204382812.pdf)  
-- [Data Structures and Algorithms – Board Infinity](https://drive.google.com/file/d/11tQ-EDCSbWvH-dmYE82WeHq8Vuyjk_NQ/view)  
-- [SSB Orientation – LPU](https://drive.google.com/file/d/1tG4kusICVrPxadgRKwUCZujI8A1FYiAH/view)
+- [Data Structures & Algorithms – Board Infinity (2024)](https://drive.google.com/file/d/11tQ-EDCSbWvH-dmYE82WeHq8Vuyjk_NQ/view)  
+- [SSB Orientation – LPU](https://drive.google.com/file/d/1tG4kusICVrPxadgRKwUCZujI8A1FYiAH/view)  
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/venkat)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:sadhanalavenkat372@gmail.com)  
+
+---
+⭐️ From [Venkata Ramana](https://github.com/Ramana372)  
