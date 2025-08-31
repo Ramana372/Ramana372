@@ -15,13 +15,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-
-**Languages:** Java, Python, C++, JavaScript, PHP, HTML5, CSS3  
-**Frontend:** React.js, AngularJS, Bootstrap, Thymeleaf  
-**Backend:** Spring Boot, Django, Node.js, Express.js  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**DevOps & Tools:** Docker, Jenkins, Kubernetes, AWS, Git, GitHub, Maven, Nginx, Ubuntu  
-
+### 💻 Programming Languages ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B) ![Java](https://img.shields.io/badge/-Java-007396?&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=php) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3) ### 🌐 Frontend Development ![React](https://img.shields.io/badge/-React-20232A?&logo=react) ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?&logo=angularjs) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap) ### 🖥 Backend Development ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-000000?&logo=express) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?&logo=spring) ### 🧠 Database ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4EA94B?&logo=postgreSQL) ### ⚙️ Tools & Platforms ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) ![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazon-aws) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?&logo=ubuntu)
 ---
 
 ## 📊 GitHub Stats  
