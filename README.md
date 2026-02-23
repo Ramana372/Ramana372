@@ -37,8 +37,8 @@ Docker | Jenkins | Kubernetes | AWS | Git | Maven | Nginx
 
 ## 📚 Featured Projects
 
-### 🌾 Agri-Mart  
-🔗 https://github.com/Ramana372/Agri-Mart  
+### 🌾 FarmFlex  
+🔗 https://github.com/Ramana372/FarmFlex
 
 Full-stack agricultural marketplace built using Spring Boot and PostgreSQL.
 
