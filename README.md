@@ -1,104 +1,92 @@
-<h1 align="center">Hi 👋, I'm Venkata Ramana</h1>
-<h3 align="center">Final-Year B.Tech CSE | Backend-Focused Full Stack Developer | DevOps Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Venkata Ramana Sadhanala</h1>
+<h3 align="center">Final-Year B.Tech CSE | Full Stack Developer | DevOps & Cloud Enthusiast</h3>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-🎓 Final-year Computer Science Engineering student at Lovely Professional University (CGPA: 7.83)  
-💡 Strong interest in building scalable backend systems and clean product architectures  
-⚙️ Focused on writing efficient, maintainable, and production-ready code  
-📚 Solid foundation in Data Structures, Algorithms, OOPS, and System Design  
-☁️ Hands-on experience with Docker, CI/CD pipelines, and cloud deployments  
+Final-year Computer Science Engineering student with hands-on experience in full-stack development and DevOps workflows. Skilled in building backend-driven web applications using **Java (Spring Boot)** and the **MERN stack**, along with **REST APIs, JWT authentication, Dockerized services, and CI/CD pipelines using Jenkins**.
 
-📫 Email: **sadhanalavenkat372@gmail.com**
+Experienced in deploying and managing cloud applications on **Microsoft Azure**. Seeking to contribute to a product-driven engineering team where I can build scalable and efficient systems.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**  
-Java | Python | JavaScript | SQL  
+### 💻 Programming Languages
+Java | Python | JavaScript | SQL | HTML | CSS  
 
-**Backend Development**  
-Spring Boot | Node.js | Express.js | Django  
-REST API Design | JWT Authentication | Microservices  
+### ⚙️ Frameworks & Libraries
+Spring Boot | Django | React.js | Node.js | Express.js | Bootstrap  
 
-**Frontend**  
-React.js | Thymeleaf | Bootstrap  
+### ☁️ DevOps & Cloud
+Azure | AWS | Docker | Kubernetes | Terraform | Jenkins (CI/CD) | Git | Maven  
 
-**Databases**  
+### 🗄️ Databases
 PostgreSQL | MySQL | MongoDB  
 
-**DevOps & Cloud**  
-Docker | Jenkins | Kubernetes | AWS | Git | Maven | Nginx  
+### 🏗️ Software Development
+REST API Development | Microservices Architecture  
+JWT Authentication | Data Structures & Algorithms  
+System Design | Agile Methodologies  
 
 ---
 
-## 📚 Featured Projects
+## 💼 Experience
+
+### ☁️ Microsoft Azure — AICTE & Microsoft Elevate  
+**Azure Intern | Dec 2025 – Jan 2026 | Remote**
+
+- Worked with Azure Virtual Machines, App Services, Azure Storage, and monitoring tools  
+- Deployed and managed cloud-hosted applications via Azure Portal  
+- Gained exposure to cloud architecture, scalability strategies, and security fundamentals  
+
+---
+
+### 🤖 Outlier.ai (Remote)  
+**LLM Evaluation Contractor | Nov 2024 – Jan 2025**
+
+- Improved LLM response accuracy by **20%** by refining prompt structures  
+- Reduced hallucinations through structured context engineering  
+- Earned $500 in performance-based rewards for high-quality contributions  
+
+---
+
+## 🚀 Projects
 
 ### 🌾 FarmFlex  
-🔗 https://github.com/Ramana372/FarmFlex
+**Tech Stack:** Java, Spring Boot, PostgreSQL, React.js, Maven, Git  
+🔗 https://github.com/Ramana372/FarmFlex  
 
-Full-stack agricultural marketplace built using Spring Boot and PostgreSQL.
+Full-stack agricultural marketplace platform enabling farmers to list, rent, and sell products.
 
-**Key Highlights**
-- Designed layered architecture (Controller → Service → Repository)
-- Implemented JWT-based role authentication (Admin / Farmer)
-- Optimized database queries for concurrent product listings
-- Integrated secure session handling and image storage
-- Followed RESTful API best practices
-
-**Architecture**
-Client (Thymeleaf) → REST API (Spring Boot) → PostgreSQL  
-Authentication: Stateless JWT-based authentication  
+**Key Contributions:**
+- Implemented secure role-based authentication (Admin/Farmer) using JWT  
+- Designed RESTful APIs with layered architecture (Controller → Service → Repository)  
+- Integrated React frontend with Spring Boot backend  
+- Managed version control using Git & GitHub  
 
 ---
 
 ### 💰 Expense Tracker  
-🔗 https://github.com/Ramana372/finance-tracker  
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Docker, Jenkins  
+🔗 https://github.com/Ramana372/Expense-Tracker  
 
-MERN stack application for tracking income and expenses with CI/CD integration.
+Full-stack expense tracking web application with CI/CD pipeline.
 
-**Key Highlights**
-- Secure JWT authentication with protected routes
-- Dockerized frontend, backend, and database
-- Configured Jenkins pipeline for automated build & deployment
-- Reverse proxy setup using Nginx
-
-**Architecture**
-React → Node/Express API → MongoDB  
-Deployment: Docker + Jenkins  
-
----
-
-### 🍽️ Athidhi Restaurant  
-🔗 https://github.com/venkat2k3/athidhi_restaurant  
-
-Reservation and menu management system.
-
-- Built dynamic frontend with React
-- Backend integration with PHP & MySQL
-- Implemented email notifications using SMTP
-
----
-
-### 📚 Library Management System  
-🔗 https://github.com/Ramana372/Library-Management-System  
-
-Java-based application for managing books and transactions.
-
-- OOPS-based design
-- CRUD operations using MySQL
-- Focused on clean modular structure
+**Key Contributions:**
+- Designed secure JWT-based user authentication  
+- Built RESTful APIs and integrated responsive React dashboard  
+- Containerized services using Docker  
+- Configured automated CI/CD workflow using Jenkins and GitHub  
 
 ---
 
 ## 📈 Coding & Problem Solving
 
-- Actively solving Data Structures & Algorithms problems
-- Focus areas: Arrays, Strings, Hashing, Recursion, Trees
-- Maintaining consistent coding practice via Daily-Leetcode repository
+- Actively practicing Data Structures & Algorithms  
+- Strong foundation in OOPS, time complexity, and backend architecture  
+- Focused on writing clean, efficient, and maintainable code  
 
 ---
 
@@ -117,25 +105,19 @@ Java-based application for managing books and transactions.
 
 ## 🎓 Certifications
 
+- Software Engineering Virtual Experience Program – Forage (2025)  
 - Cloud Computing – NPTEL (2024)  
-- Data Structures & Algorithms – Board Infinity (2024)  
-- SSB Orientation – LPU  
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/venkat-sadhanala">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" />
-  </a>
-  <a href="mailto:sadhanalavenkat372@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat" />
-  </a>
-</p>
+📧 Email: sadhanalavenkat372@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/venkat-sadhanala  
+💻 GitHub: https://github.com/Ramana372  
 
 ---
 
 <p align="center">
-Focused on building scalable systems and continuously improving engineering depth.
+Focused on building scalable backend systems and continuously improving engineering depth.
 </p>
