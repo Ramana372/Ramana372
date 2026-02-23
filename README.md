@@ -1,71 +1,141 @@
-
 <h1 align="center">Hi 👋, I'm Venkata Ramana</h1>
-<h3 align="center">Final-Year B.Tech CSE | Full Stack Developer | DevOps Enthusiast</h3>
+<h3 align="center">Final-Year B.Tech CSE | Backend-Focused Full Stack Developer | DevOps Enthusiast</h3>
 
 ---
 
-### 👨‍💻 About Me  
-- 🎓 **B.Tech in Computer Science and Engineering** at Lovely Professional University (CGPA: 7.65)  
-- 💻 Building **scalable web apps** with **Java, Python, Spring Boot, React, and Node.js**  
-- ☁️ Passionate about **DevOps**: Docker, Jenkins, Kubernetes, AWS, CI/CD  
-- 📚 Strong in **Data Structures, Algorithms, and System Design**  
-- 📫 Email: **sadhanalavenkat372@gmail.com**  
-- ⚡ *Code, Cloud, and Coffee keep me alive!* ☕  
+## 👨‍💻 About Me
+
+🎓 Final-year Computer Science Engineering student at Lovely Professional University (CGPA: 7.83)  
+💡 Strong interest in building scalable backend systems and clean product architectures  
+⚙️ Focused on writing efficient, maintainable, and production-ready code  
+📚 Solid foundation in Data Structures, Algorithms, OOPS, and System Design  
+☁️ Hands-on experience with Docker, CI/CD pipelines, and cloud deployments  
+
+📫 Email: **sadhanalavenkat372@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack  
-**Languages**: Java, Python, JavaScript, C++, PHP, HTML5, CSS3  
-**Frontend**: React.js, AngularJS, Bootstrap, Thymeleaf  
-**Backend**: Spring Boot, Django, Node.js, Express.js  
-**Databases**: PostgreSQL, MySQL, MongoDB  
-**DevOps**: Docker, Jenkins, Kubernetes, AWS, Git, Maven, Nginx  
+## 🛠️ Tech Stack
+
+**Languages**  
+Java | Python | JavaScript | SQL  
+
+**Backend Development**  
+Spring Boot | Node.js | Express.js | Django  
+REST API Design | JWT Authentication | Microservices  
+
+**Frontend**  
+React.js | Thymeleaf | Bootstrap  
+
+**Databases**  
+PostgreSQL | MySQL | MongoDB  
+
+**DevOps & Cloud**  
+Docker | Jenkins | Kubernetes | AWS | Git | Maven | Nginx  
 
 ---
 
-### 📚 Featured Projects  
-- 🌾 **[Agri-Mart](https://github.com/Ramana372/Agri-Mart)**  
-  Full-stack marketplace for farmers using **Spring Boot, JWT, PostgreSQL, Thymeleaf**.  
-  *Features*: Role-based auth, product dashboard, image storage.  
+## 📚 Featured Projects
 
-- 💰 **[Expense Tracker](https://github.com/Ramana372/finance-tracker)**  
-  MERN app with **JWT auth**, **Dockerized**, and deployed via **Jenkins** on **Nginx**.  
+### 🌾 Agri-Mart  
+🔗 https://github.com/Ramana372/Agri-Mart  
 
-- 🍽️ **[Athidhi Restaurant](https://github.com/venkat2k3/athidhi_restaurant)**  
-  Reservation + menu system with **React, PHP, MySQL, SMTP**.  
+Full-stack agricultural marketplace built using Spring Boot and PostgreSQL.
 
-- 📚 **[Library Management System](https://github.com/Ramana372/Library-Management-System)**  
-  Book management app with **Java + MySQL**.  
+**Key Highlights**
+- Designed layered architecture (Controller → Service → Repository)
+- Implemented JWT-based role authentication (Admin / Farmer)
+- Optimized database queries for concurrent product listings
+- Integrated secure session handling and image storage
+- Followed RESTful API best practices
+
+**Architecture**
+Client (Thymeleaf) → REST API (Spring Boot) → PostgreSQL  
+Authentication: Stateless JWT-based authentication  
 
 ---
 
-### 📊 GitHub Stats  
+### 💰 Expense Tracker  
+🔗 https://github.com/Ramana372/finance-tracker  
+
+MERN stack application for tracking income and expenses with CI/CD integration.
+
+**Key Highlights**
+- Secure JWT authentication with protected routes
+- Dockerized frontend, backend, and database
+- Configured Jenkins pipeline for automated build & deployment
+- Reverse proxy setup using Nginx
+
+**Architecture**
+React → Node/Express API → MongoDB  
+Deployment: Docker + Jenkins  
+
+---
+
+### 🍽️ Athidhi Restaurant  
+🔗 https://github.com/venkat2k3/athidhi_restaurant  
+
+Reservation and menu management system.
+
+- Built dynamic frontend with React
+- Backend integration with PHP & MySQL
+- Implemented email notifications using SMTP
+
+---
+
+### 📚 Library Management System  
+🔗 https://github.com/Ramana372/Library-Management-System  
+
+Java-based application for managing books and transactions.
+
+- OOPS-based design
+- CRUD operations using MySQL
+- Focused on clean modular structure
+
+---
+
+## 📈 Coding & Problem Solving
+
+- Actively solving Data Structures & Algorithms problems
+- Focus areas: Arrays, Strings, Hashing, Recursion, Trees
+- Maintaining consistent coding practice via Daily-Leetcode repository
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramana372&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramana372&layout=compact&theme=radical" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramana372&show_icons=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramana372&layout=compact" width="300" />
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ramana372&theme=radical" alt="Streak Stats" width="400" />
+  <img src="https://streak-stats.demolab.com?user=Ramana372" width="400" />
 </p>
 
 ---
 
-### 🎓 Certifications  
-- ☁️ [Cloud Computing – NPTEL (2024)](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs118/Course/NPTEL24CS118S95690029204382812.pdf)  
-- 🧠 [Data Structures & Algorithms – Board Infinity (2024)](https://drive.google.com/file/d/11tQ-EDCSbWvH-dmYE82WeHq8Vuyjk_NQ/view)  
-- 🛡️ [SSB Orientation – LPU](https://drive.google.com/file/d/1tG4kusICVrPxadgRKwUCZujI8A1FYiAH/view)  
+## 🎓 Certifications
+
+- Cloud Computing – NPTEL (2024)  
+- Data Structures & Algorithms – Board Infinity (2024)  
+- SSB Orientation – LPU  
 
 ---
 
-### 📫 Connect with Me  
+## 📫 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/venkat-sadhanala"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn"></a>
-  <a href="mailto:sadhanalavenkat372@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/venkat-sadhanala">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" />
+  </a>
+  <a href="mailto:sadhanalavenkat372@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Explore my projects and let's build something awesome together!  
-  <a href="https://github.com/Ramana372">Venkata Ramana</a>
+Focused on building scalable systems and continuously improving engineering depth.
 </p>
